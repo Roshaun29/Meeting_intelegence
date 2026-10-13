@@ -1,0 +1,1 @@
+# This makes frontend a Python package
